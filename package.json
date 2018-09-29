@@ -1,0 +1,27 @@
+{
+  "name": "react-tailwind-cli",
+  "version": "1.0.0",
+  "description": "Create new React applications with TailwindCSS and Parcel Bundler",
+  "repository": "burrelle/react-tailwind-cli",
+  "homepage": "https://github.com/burrelle/react-tailwind-cli#readme",
+  "engines": {
+    "node": ">=8"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "tailwindcss",
+    "parcel-bundler"
+  ],
+  "preferGlobal": true,
+  "bin": {
+    "react-tailwind": "bin/react-tailwind"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "git-clone": "^0.1.0",
+    "minimist": "^1.2.0",
+    "ora": "^3.0.0"
+  }
+}
