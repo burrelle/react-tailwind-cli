@@ -12,6 +12,7 @@ Arguments:
   project-name          name of the project
 
 Options:
+      new               Create a new project
       --help            To output help list
       --version         Output the current verion
 `

@@ -1,6 +1,6 @@
 {
   "name": "react-tailwind-cli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Create new React applications with TailwindCSS and Parcel Bundler",
   "repository": "burrelle/react-tailwind-cli",
   "homepage": "https://github.com/burrelle/react-tailwind-cli#readme",

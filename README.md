@@ -19,6 +19,12 @@ Installation is done using the
 $ npm install -g react-tailwind-cli
 ```
 
+## Usage
+To create a new project:
+```bash
+react-tailwind new [project-name]
+```
+
 ## Features
 
   * React
