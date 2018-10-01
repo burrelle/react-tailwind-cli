@@ -23,5 +23,12 @@
     "git-clone": "^0.1.0",
     "minimist": "^1.2.0",
     "ora": "^3.0.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "test-console": "^1.1.0"
   }
 }
