@@ -27,7 +27,7 @@ module.exports = args => {
         console.log(`${stdout}`);
         spinner.stop();
         console.log(chalk.blue("\n➡️  cd " + args._[1]));
-        console.log(chalk.green("🏃  yarn start"));
+        console.log(chalk.green("🏃 yarn start"));
         console.log(chalk.yellow("🚀  Now go build something awesome!"));
       }
     });
